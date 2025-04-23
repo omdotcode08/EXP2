@@ -1,0 +1,13 @@
+Experiment 2: JavaScript Assignments
+Objective
+T 
+Task
+Write a JavaScript program to demonstrate:
+Variable declaration and types.
+if-else and switch control statements.
+Event handling for a button click.
+Instructions
+Create an HTML file with a button and input fields.
+Write a JavaScript file to:
+Take user input and process it.
+Handle events like button clicks and keyboard input.
